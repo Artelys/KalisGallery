@@ -12,4 +12,6 @@ Model Examples
 
 ***
 
+To obtain an Artelys Kalis license in order to run a model example or create your own notebook, go to : https://www.artelys.com/en/optimization-tools/kalis#downloads-tab
+
 The Artelys Kalis Gallery is available under the MIT License.
